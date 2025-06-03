@@ -19,7 +19,7 @@ kiwisolver==1.4.7
 MarkupSafe==3.0.2
 matplotlib==3.9.3
 Naked==0.1.32
-
+gunicorn
 packaging==24.2
 
 pycryptodome==3.22.0
